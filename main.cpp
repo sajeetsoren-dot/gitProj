@@ -1,6 +1,7 @@
 #include "iostream"
 using namespace std;
 int main() {
+    cout << "i am master 2" << endl;
     std::cout << "sync 2" << std::endl;
     std::cout << "syncronize" << std::cout;
     std::cout << "this has to be pushed" << std::endl;
