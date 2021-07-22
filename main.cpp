@@ -1,5 +1,5 @@
 #include "iostream"
-
+using namespace std;
 int main() {
     std::cout << "sync 2" << std::endl;
     std::cout << "syncronize" << std::cout;
