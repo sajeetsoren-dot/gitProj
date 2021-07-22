@@ -10,5 +10,6 @@ int main() {
     std::cout << "this has to show" << std::endl;
     std::cout << "example htis is" << std::endl;
     std::cout << "i am doing this for myself" << std::endl;
+    std::cout << "commit all" << std::endl;
     return 0;
 }
